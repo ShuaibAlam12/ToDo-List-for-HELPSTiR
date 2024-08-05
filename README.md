@@ -14,4 +14,4 @@ This is a Todo List application built using React. It allows users to add, delet
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ShuaibAlam12/ToDo-List-for-HELPSTiR/tree/master
